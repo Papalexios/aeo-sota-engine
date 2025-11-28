@@ -1,0 +1,5 @@
+{
+  "name": "SEO Content Refresher AI (Intro/Key-Takeaways/Hiqh-Quality Copariosn Table/FAQs/Conclusion/References) Beta 3",
+  "description": "A specialized SEO tool that ingests sitemaps, identifies 'decayed' content, and uses Gemini AI to generate modern update snippets for outdated product reviews.",
+  "requestFramePermissions": []
+}
